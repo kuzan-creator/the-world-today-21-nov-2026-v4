@@ -4,7 +4,7 @@
 ![Rank](https://make.fun/badge/news-image-20261121/kuzan-creator/the-world-today-21-nov-2026-v4/rank.svg)
 ![Reward](https://make.fun/badge/news-image-20261121/kuzan-creator/the-world-today-21-nov-2026-v4/reward.svg)
 
-A 1024×1024 newspaper front page summing up the world news of Saturday 21 November 2026 in one image — **43 dated stories, 7 regions**, rebuilt from the design that reached rank 63 in dev grading.
+A 1024×1024 newspaper front page summing up the world news of Saturday 21 November 2026 in one image — **43 dated stories, 7 regions**, rebuilt from the design that reached rank 63 in dev grading, with the cricket bat fixed inside its picture and ocean labels on the map.
 
 ## What is inside
 
